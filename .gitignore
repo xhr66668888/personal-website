@@ -1,0 +1,10 @@
+# Originals stay on this computer only — never push them to a public repo
+Smartisan_Compact-Regular.ttf
+*.ttf
+*.otf
+/FE562405-453E-4E98-8FF9-F6758003C0A3.PNG
+
+/Kaze Wo Atsumete.mp3
+/Claude outputs/
+
+.DS_Store
